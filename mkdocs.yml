@@ -1,0 +1,13 @@
+site_name: Game Guides
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - The Farmer Was Replaced:
+      - Introduction: guides/the-farmer-was-replaced/introduction.md
+      - Getting Started: guides/the-farmer-was-replaced/getting-started.md
+      - Game Mechanics: guides/the-farmer-was-replaced/game-mechanics.md
+      - Programming Basics: guides/the-farmer-was-replaced/programming-basics.md
+      - Advanced Programming Techniques: guides/the-farmer-was-replaced/advanced-programming-techniques.md
+      - Walkthroughs and Strategies: guides/the-farmer-was-replaced/walkthroughs-and-strategies.md
+      - Tips and Tricks: guides/the-farmer-was-replaced/tips-and-tricks.md
